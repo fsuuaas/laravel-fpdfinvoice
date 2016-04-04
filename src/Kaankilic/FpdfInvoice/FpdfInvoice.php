@@ -1,5 +1,5 @@
 <?php
-namespace Anouar\Fpdf;
+namespace Kaankilic\FpdfInvoice;
 /*******************************************************************************
 * PHP Invoice                                                                  *
 *                                                                              *

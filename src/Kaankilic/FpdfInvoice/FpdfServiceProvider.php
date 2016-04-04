@@ -1,4 +1,5 @@
-<?php namespace Anouar\Fpdf;
+<?php
+namespace Kaankilic\FpdfInvoice;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -20,7 +21,7 @@ class FpdfServiceProvider extends ServiceProvider {
 	{
 		$this->app['fpdf'] = $this->app->share(function($app)
         {
-            return new Fpdf;
+            return new FpdfInvoice;
         });
 	}
 

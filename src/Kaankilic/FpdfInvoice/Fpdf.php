@@ -1,4 +1,4 @@
-<?php namespace Anouar\Fpdf;
+<?php namespace Kaankilic\FpdfInvoice;
 /*******************************************************************************
 * FPDF                                                                         *
 *                                                                              *

@@ -1,4 +1,5 @@
-<?php namespace Anouar\Fpdf\Facades;
+<?php
+namespace Kaankilic\FpdfInvoice\Facades;
 
 use Illuminate\Support\Facades\Facade;
  
