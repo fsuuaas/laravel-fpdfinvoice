@@ -1,8 +1,8 @@
 {
-    "name": "anouar/fpdf",
+    "name": "kaankilic/fpdfinvoice",
     "description": "Fpdf allows to generate PDF files",
     "license": "BSD-2-Clause",
-    "name": "anouar/fpdf",
+    "name": "kaankilic/fpdfinvoice",
     "source": {
         "type": "git",
         "url": "git@github.com:xroot/laravel-fpdf.git",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Anouar",
-            "email": "dtekind@gmail.com"
+            "name": "Kaan",
+            "email": "bl4cksta@gmail.com"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Anouar\\Fpdf": "src/"
+            "Kaankilic\\Fpdf": "src/"
         }
     }
 }
