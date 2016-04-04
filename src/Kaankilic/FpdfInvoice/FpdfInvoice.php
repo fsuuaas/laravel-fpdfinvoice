@@ -8,7 +8,7 @@ namespace Kaankilic\FpdfInvoice;
 * http://www.splashpk.com                                                      *
 *******************************************************************************/
 
-class phpinvoice extends FPDF_rotation  {
+class FpdfInvoice extends FPDF  {
 
 	private $font 			 = 'helvetica';	 	/* Font Name : See inc/fpdf/font for all supported fonts */
 	private $columnOpacity   = 0.06;		 	/* Items table background color opacity. Range (0.00 - 1) */
