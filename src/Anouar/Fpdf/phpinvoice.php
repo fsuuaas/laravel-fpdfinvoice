@@ -6,7 +6,6 @@
 * Author:  Farjad Tahir	                                    				   *
 * http://www.splashpk.com                                                      *
 *******************************************************************************/
-require_once('inc/__autoload.php');
 
 class phpinvoice extends FPDF_rotation  {
 
